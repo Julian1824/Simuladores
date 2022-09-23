@@ -1,0 +1,286 @@
+﻿1;Adquirir electrodoméstico o gasodoméstico por catálogo enviado en mensaje de texto;Compra de electrodomésticos y/o gasodomésticos ¿La compra desea realizarla financiada con EPM o va a usar otro medio de pago?¿ Le enviaron un mensaje de texto para ver catalogo?;"Si el usuario desea adquirir un electrodoméstico o gasodomésticos por ""Catálogo"" (el usuario debe mencionar la palabra catálogo) y financiarlo con Somos se debe transferir a EPM ATP (EPM a tu puerta).";Me llego un mensaje de texto para elegir un artículo de un gasodoméstico un electrodoméstico;epm puerta
+2;Garantía de la compra de un electrodoméstico o un gasodoméstico;Quiero solicitar garantía de un artículo financiado con el crediagil ¿Dónde compro el artículo?;Si el usuario indica que fueron de EPM y se lo vendieron en su casa, debes preguntarle qué medio de pago utilizó: Crédito Somos(con tarjeta somos), crediagil( crédito sin tarjeta) se debe transferir a EPM a tu Puerta.;;epm puerta
+3;Crédiagil (Crédito sin tarjeta);Crédiagil (Crédito sin tarjeta:) ¿Desea financiar algún servicio del catálogo de EPM atu puerta?;Si desea financiar algún servicio del catálogo de EPMATP se debe transferir a EPM a tu Puerta.;;epm puerta
+4;Legalizar o activar (Crediágil) crédito sin tarjeta;Legalizar o activar crédito: ¿Es un crédito SOMOS o  Crédiagil crédito sin tarjeta?;Si es SIN tarjeta se debe transferir a EPM a tu Puerta.;;epm puerta
+5;Membresía EPM A TU PUERTA;Vi una publicidad de membresía de EPM, para reparar o hacer mantenimiento;Desea adquirir el servicio se pasa para EPM a tu Puerta.;Qué cupo tengo disponible en la membresía.Qué disponibilidad tengo el la bolsa de membresía.Quiero adquirir una membresía para mi negocio?.Quiero adquirir una membresía para mi casa ?;epm puerta
+6;Garantía del servicio de electrodoméstico o gasodoméstico;Me repararon, instalaron o hicieron mantenimiento y se daño de nuevo el electrodomestico o el gasodoméstico;Si tiene un pedido, de agenda para gasodoméstico o Electrodoméstico se pasa para EPM a tu Puerta.;;epm puerta
+7;Cambio de persona autorizada con una agenda que tengo ( para atender la reparación, mantenimiento e instalación);Agende un servicio ( para atender la reparación, mantenimiento e instalación);Si, se transfiere para EPM a tu Puerta;;epm puerta
+8;Agendamiento con Membresía;Quiero agendar una mantenimiento o una reparación con mi membresía;Si el usuario tiene un pedido, se debe pasar con el área de EPMATP;;epm puerta
+9;Tengo un pedido de mantenimiento, reparación o instalación quiero cambiar la opción de pago;¿ ya tiene crédiagil (crédito sin tarjeta) o lo va solicitar el crédiagil ?;Ya tengo crediagil (crédito sin tarjeta) Voy a solicitar el crédito transferir a EPM ATP (EPM a tu puerta).;;epm puerta
+10;Reprogramación de una agenda que tengo mantenimiento, reparación o instalación;No puedo atender la visita que tengo programada;En caso que va cancelar, modificar la agenda mantenimiento, reparación o instalación e debe pasar con el área de EPMATP;;epm puerta
+11;Instalación, mantenimiento o reparación- Neveras-Nevecom;quiero hacer mantenimiento, reparación o instalar;Si, se transfiere para EPM a tu Puerta;;epm puerta
+12;Instalación, mantenimiento o reparación - Aires acondicionados;quiero hacer mantenimiento, reparación o instalar;Si, se transfiere para EPM a tu Puerta;;epm puerta
+13;Instalación, mantenimiento o reparación - Congeladores;quiero hacer mantenimiento, reparación o instalar;Si, se transfiere para EPM a tu Puerta;;epm puerta
+14;Instalación, mantenimiento o reparación - Lavadoras;quiero hacer mantenimiento, reparación o instalar;Si, se transfiere para EPM a tu Puerta;;epm puerta
+15;Instalación, mantenimiento o reparación - Lavavajillas;quiero hacer mantenimiento, reparación o instalar;Si, se transfiere para EPM a tu Puerta;;epm puerta
+16;Instalación, mantenimiento o reparación - Calentadores;quiero hacer mantenimiento, reparación o instalar;Si, se transfiere para EPM a tu Puerta;;epm puerta
+17;Instalación, mantenimiento o reparación - Cubiertas de cocina;quiero hacer mantenimiento, reparación o instalar;Si, se transfiere para EPM a tu Puerta;;epm puerta
+18;Instalación, mantenimiento o reparación - Horno eléctricos o a gas;quiero hacer mantenimiento, reparación o instalar;Si, se transfiere para EPM a tu Puerta;;epm puerta
+19;Instalación, mantenimiento o reparación - Estufas eléctricos o a gas;quiero hacer mantenimiento, reparación o instalar;Si, se transfiere para EPM a tu Puerta;Quiero hacerle un mantenimiento a mi estufa con pipeta de gas;epm puerta
+20;Instalación, mantenimiento o reparación - Campanas Extractoras;quiero hacer mantenimiento, reparación o instalar;Si, se transfiere para EPM a tu Puerta;;epm puerta
+21;Quejas EPM a tu puerta;¿Quiero que me comuniquen con el área de quejas? ¿Desea quejarse por valores facturados, daños o por qué motivo?;Si es por: Servicio prestado por instalación, mantenimiento o reparación de electrodoméstico o gasodoméstico: EPM A TU PUERTA;;epm puerta
+22;Quiero una revisión de una daño de energía en mi casa;Es dentro de la vivienda o es después del contador;Si, es dentro de la vivienda lo pasas para EPM a tu Puerta;;epm puerta
+23;Quiero una revisión de una fuga de agua ?;Es dentro de la vivienda o es después del contador;Si, es dentro de la vivienda lo pasas para EPM a tu Puerta;;epm puerta
+24;Tengo una fuga agua Perceptible-Imperceptible;La fuga es dentro de la vivienda, La han visitado para identificar de que trata la fuga;Si, el personal nos visito y me van a cobrar en la factura el trabajo;;epm puerta
+25;Quiero cambiar la agenda que tengo para revisión de un daño de energía;Es dentro de la vivienda?;Si, se pasa para EPM a tu puerta;;epm puerta
+26;Tengo programada una visita de un daño de energía ?;La visita es para revisar dentro de la vivienda;Si, se pasa para EPM a tu puerta;;epm puerta
+27;Tengo programada una visita de fuga de agua ?;La visita es para revisar dentro de la vivienda;Si, se pasa para EPM a tu puerta;;epm puerta
+28;Tengo programada una visita daño de Energía ?;La visita es para revisar dentro de la vivienda;Si, se pasa para EPM a tu puerta;;epm puerta
+29;Pitometría;.;;;daños acueducto
+30;Quejas (¿Quiero que me comuniquen con el área de quejas?);¿Desea quejarse por valores facturados, daños o por qué motivo?;Si el usuario desea ingresar una Inconformidad con la atención brindada por parte de un funcionario, contratista o creador de experiencia de la línea es con quejas.Si es por algún motivo diferente primero se debe transferir a cada programa para que le den manejo a la llamada y ellos validan si aplica o no la queja.;Quiero colocar una felicitación.Quiero felicitar o felicitarlos a un CE o al personal a la empresa.Deseo colocar una sugerencia;quejas
+31;Energía solar. Deseo adquirir el servicio de energía solar.;Deseo adquirir el servicio de energía solar. ¿Desea solicitar cotización o desea saber sobre el crédito para realizar la instalación?;Solicitar cotización se transfiere a energía .Solicitar crédito se transfiere a SOMOS;Deseo saber cómo puedo solicitar el retiro definitivo de energía solar.Tengo un pedido de autogenerador y deseo agendar una cita.Sistema fotovoltáico.Vista para una inspección fotovoltáica;daños energia
+32;Energía solar. Deseo adquirir el servicio de energía solar.;Deseo adquirir el servicio de energía solar. ¿Desea solicitar cotización o desea saber sobre el crédito para realizar la instalación?;Solicitar cotización se transfiere a energía .Solicitar crédito se transfiere a SOMOS;Estoy en proceso de la instalación de paneles solares:.Deseo saber cómo realizar la instalación de los páneles solares por primera vez.Tengo energía solar con EPM y se me presentó un daño en el servicio;daños energia
+33;Calibración medidor de energía;"""¿Necesito una calibración del medidor? Solicita la calibración por qué le está llegando muy alto el consumo o por qué el medidor está parado o malo?""";"""Altos consumos: Factura Medidor parado, dañado o porque lo desea: Energia""";;daños energia
+34;Daños energía;.;;Información línea viva.Se me dañó un electrodoméstico y deseo solicitar reposición o reparación.Tengo energía convencional con EPM y se me presentó un daño en el servicio.Daño en trenza, daño en cañuela o vela, daño en poste o paral, daño en caja de distribución.Daño en medidor de energía o breakers, retiro poste;daños energia
+35;Fuga en el centro de medición;.;;;daños gas
+36;Robo medidor de gas;.;;Me robaron el medidor de gas;daños gas
+37;Garantía artículos de gasodomésticos. (Cubiertas,estufas,calentador,hornos, etc);¿Dónde compro el artículo? Si el usuario indica que fueron de EPM y se lo vendieron en su casa, debes preguntarle qué medio de pago utilizó:;Efectivo, tarjeta débito o tarjeta de crédito de un banco, crédito Somos tarjeta;;solgas
+38;Reforma en redes internas de gas y centro de medición;.;;Deseo realizar movimiento o traslado del centro de medición de gas o contador de gas.Movimiento, reforma, traslado, adicionar otra llave, en la red interna de gas;solgas
+39;Compra e información de gasodomésticos (Cubiertas,estufas,calentador,hornos, etc);Compra de electrodomésticos y/o gasodomésticos ¿La compra desea realizarla financiada con EPM o va a usar otro medio de pago?;Si el usuario desea adquirir un gasodoméstico y desea efectuar el pago en efectivo, tarjeta débito o tarjeta de crédito de un banco se debe transferir a : solgas .Financiada con EPM, se debe transferir a: Somos (Si no desea realizar la compra con los medios anteriormente mencionados, ni adquirir la tarjeta Somos, lo que desea es que le llegue en la factura de los servicios EGA no es posible adquirir el producto, se debe acoger a uno de estos medios de pago);Usuario requiere compra de gasodomésticos incluyendo adecuación de la red de gas para el equipo.Usuario solicita comprar un Gasodomésticos y tiene crédito somos.;solgas
+40;Compra e información de gasodomésticos (Cubiertas,estufas,calentador,hornos, etc);Compra de electrodomésticos y/o gasodomésticos ¿La compra desea realizarla financiada con EPM o va a usar otro medio de pago?;Si el usuario desea adquirir un gasodoméstico y desea efectuar el pago en efectivo, tarjeta débito o tarjeta de crédito de un banco se debe transferir a : solgas .Financiada con EPM, se debe transferir a: Somos (Si no desea realizar la compra con los medios anteriormente mencionados, ni adquirir la tarjeta Somos, lo que desea es que le llegue en la factura de los servicios EGA no es posible adquirir el producto, se debe acoger a uno de estos medios de pago);Usuario requiere compra de gasodoméstico incluyendo adecuación de la red de gas para el equipo, se debe transferir a solgas.Usuario solicita comprar un Gasodomésticos y desea realizar el pago con otro medio de pago (efectivo, tarjeta débito, tarjeta de crédito) es con;solgas
+41;Reclamos servicios EGA;.;;Cuando el usuario desee realizar un reclamo por valores facturados se debe transferir al área;orientacion factura
+42;Geófonos;.;;Me hicieron una revisión con geófono.Quiero que me revisen un daño de agua con geófono;orientacion factura
+43;Hundimiento;Tiene conocimiento si los trabajos que estaban realizando son de acueducto y alcantarillado, energía o gas?;Según el servicio que informe se transfiere con el área encargada.;Hay un hueco en la calle .Dejaron un hueco en la calle .Dejaron escombros en la calle .¿Cuándo van a pavimentar un hueco?;daños acueducto
+44;Obras accesorias;¿Es que dejaron unos escombros? Tiene conocimiento estos escombros que dejaron corresponden a trabajos de acueducto, energía o gas o no tiene conocimiento a que corresponde?;Según el servicio que informe se transfiere con el área encargada.Si no tiene conocimiento o informa que no son por trabajos de EPM se brinda el número de la empresa de aseo según el municipio.;Dejaron unos escombros al lado de un hueco en la calle después de un trabajo de acueducto.;daños acueducto
+45;Traslado de medidor o acometida;;;Deseo trasladar el medidor de agua de lugar.Deseo trasladar la acometida de acueducto;daños acueducto
+46;Sector sin agua;;;¿A qué horas llega el agua por este sector?.¿Estamos sin agua en el barrio y necesitamos que nos informe qué sucede?;daños acueducto
+47;Agua sucia;;;El agua de la llave está llegando muy sucia.Por qué está llegando el agua tan sucia.Qué daño hay que tenemos el agua tan sucia.El agua está llegando con pantano y se nos está dañando la ropa;daños acueducto
+48;Agua con mal olor;;;El agua presenta mal olor, como a metal.El agua tiene un olor diferente;daños acueducto
+49;Agua con mal sabor;;;El agua me sabe raro.El agua tiene un sabor diferente;daños acueducto
+50;Fuga de acueducto reporte de daño;;;Para reportar un daño del agua;daños acueducto
+51;Cobros por trabajo de acueducto;Cobros por trabajos de acueducto:Desea conocer el detalle del trabajo que se está facturando o se va a facturaro información del valor del trabajo ya facturado.;Saber porque me va a tocar pagarlo   o que trabajo realizaron;¿Quiero saber si un daño de agua en la calle me corresponde pagarlo?;daños acueducto
+52;Garantía trabajo de acueducto;;;Hicieron un trabajo de acueducto y se presenta nuevamente el daño.;daños acueducto
+53;Cambio de llave del medidor  (daño);;;Para reportar un daño en la llave del contador;daños acueducto
+54;Poca presión de agua en las vivienda;;;Es que me está llegando muy poca agua a la casa;daños acueducto
+55;Daños o fugas en hidrantes;;;Está saliendo agua de donde se conectan los bomberos;daños acueducto
+56;Robo de medidor de acueducto;;;Se robaron un medidor de agua.Para reportar un robo de medidor.Está saliendo mucha agua del contador;daños acueducto
+57;Mucha  presión de agua en el sector;;;Tengo mucha presión de agua en mi casa.Se me presentaron varios daños en la casa porque está llegando con mucha presión;daños acueducto
+58;Fugas en el medidor (daño);;;Está saliendo agua del medidor;daños acueducto
+59;Instalación o cambio de tapa de medidor de acueducto;;;Me robaron la tapa del contador de acueducto.Necesito que me instalen la tapa del contador de agua.Quiero que le coloquen la tapa al contador de acueducto;daños acueducto
+60;Daños agua prepago (medidor o tarjeta);;;El medidor no me toma la recarga.El medidor no me lee la recarga.El medidor prepago no funciona.La tarjeta de agua prepago está mala.En los puntos me dicen que la tarjeta no funciona.;daños acueducto
+61;Humedades al interior del inmueble;;;Tengo una humedad en uno de los muros.Mi vecino me está generando un perjuicio, tiene una humedad;daños acueducto
+62;Fuga de alcantarillado (daño aguas negras, con mal olor);;;Para reportar un daño de aguas negras.Está saliendo agua por la calle y levanta muy malos olores;daños acueducto
+63;Cambios de acometida ( acueducto o alcantarillado);;;Necesito cambiar la tuberia de acueducto.Necesito cambiar la tubería de aguas negras.La tubería está en atenor;daños acueducto
+64;Obstrucciones (manholes, sumideros, cajas de registro, sifones);;;Se están devolviendo las aguas negras.Me estoy inundano con agua sucia;daños acueducto
+65;Calibración medidor de agua;"""¿Necesito una calibración del medidor? Solicita la calibración por qué le está llegando muy alto el consumo o por qué el medidor está parado o malo?""";"""Altos consumos: Factura Medidor parado, dañado o porque lo desea: Acueducto""";;daños acueducto
+66;Obras accesorias;"""¿Es que dejaron unos escombros? Tiene conocimiento estos escombros que dejaron corresponden a trabajos de acueducto, energía o gas o no tiene conocimiento a que corresponde?""";"""Según el servicio que informe se transfiere con el área encargada.Si no tiene conocimiento o informa que no son por trabajos de EPM se brinda el número de la empresa de aseo según el municipio.""";Dejaron unos escombros al lado de un hueco en la calle después de un trabajo de acueducto.;daños acueducto
+67;Hundimiento;Tiene conocimiento si los trabajos que estaban realizando son de acueducto y alcantarillado, energía o gas?;"""Según el servicio que informe se transfiere con el área encargada.""";"""Hay un hueco en la calle.Dejaron un hueco en la calle.Dejaron escombros en la calle.¿Cuándo van a pavimentar un hueco? """;daños acueducto
+68;MH sin tapa (manhole sin tapa -Cámara sin tapa, cajas sin tapa);;;Hay una alcantarilla sin tapa;daños acueducto
+69;Fraudes de acueducto;;;Para reportar un fraude de agua;daños acueducto
+70;Carta revisión del medidor;Me llegó una carta ¿Sr (a) La carta que le llegó es una revisión previa por alto consumo de agua y variación en la factura o es cambio de medidor por desarrollo tecnológico.;Por cambio de medidor por desarrollo tecnológico: Daños acueducto.Por alto consumo: orientacion factura;Me llegó una carta para cambio de medidor;daños acueducto
+71;Solicitudes o conexión nueva del  servicio de acueducto;;;Necesito terminar de legalizar el servicio de acueducto para que me llegue la factura del consumo:.Necesito legalizar el servicio de acueducto para terminar la instalación:.Deseo instalar el servicio de acueducto;daños acueducto
+72;Información del servicio de Agua prepago.;;;"Conceptos recargas de agua prepago.¿Qué beneficios tiene el servicio de agua prepago.¿Cómo funciona el servicio de agua prepago?
+.No me están durando las recargas de agua prepago";daños acueducto
+73;Ingreso de reporte de medidor o tarjeta por pérdida o robo agua prepago;;;Se me perdió la tarjeta de agua prepago.Se me dañó la tarjeta de agua prepago.Se me robaron el medidor de agua prepago;daños acueducto
+74;Revisar estado solicitudes acueducto;;;Quiero saber en que estado se encuentra un daño reportado;daños acueducto
+75;Solicitud de vactor;;;Necesito un liparal;daños acueducto
+76;Solicitud de televisación de redes;;;Necesito un servicio de circuito cerrado de televisión;daños acueducto
+77;Solicitud de carrotanque;;;;daños acueducto
+78;Uso de hidrantes;;;;daños acueducto
+79;Información de unidos por el agua;;;;daños acueducto
+80;Recomendaciones tanques de almacenamiento;;;;daños acueducto
+81;Dirección de los tanques de almacenamiento;;;;daños acueducto
+82;Tratamiento aguas residuales;;;;daños acueducto
+83;Pitometría;;;;daños acueducto
+84;Orientación vertimientos;;;;daños acueducto
+85;Plantas de tratamiento agua residual;;;;daños acueducto
+86;Descarga de color a fuente hidrica;;;El rio Medellín o quebrada está de color;daños acueducto
+87;Información de proyectos de acueducto y alcantarillado  en el sector;;;;daños acueducto
+88;Verificar nichos o apiques (huecos) en el sector;;;;daños acueducto
+89;Quejas acueducto;"¿Quiero que me comuniquen con el área de quejas?
+¿Desea quejarse por valores facturados, daños o por qué motivo?";Si es por: Daños, interrupciones o servicio nuevo acueducto, procesos aguas, garantías por trabajos.;;daños acueducto
+90;Daños energía.;;;Información línea viva.Se me dañó un electrodoméstico y deseo solicitar reposición o reparación.Tengo energía convencional con EPM y se me presentó un daño en el servicio;daños energia
+91;Alumbrado público.;;;"""Necesito realizar una solicitud para poner alumbrado público en mi cuadra:.Deseo solicitar instalación de alumbrado público.Deseo reportar un daño de alumbrado público.Hay un daño en las luminarias """;daños energia
+92;Daños e inconvenientes con el medidor de energía.;;;;daños energia
+93;Descopes.;;;;daños energia
+94;Fraudes de energía.;;;;daños energia
+95;Robo de medidor de energía;;;;daños energia
+96;Información energía prepago;;;Deseo saber cómo puedo adquirir el servicio de energía prepago.Deseo saber cómo puedo solicitar el retiro del servicio de energía prepago.Tengo un pedido de energía prepago y deseo saber cómo va el proceso.;daños energia
+97;Información energía prepago;;;Deseo saber el valor de los kilovatios de energía prepago que me están cobrando.Las recargas de energía prepago no me están durando.Alto consumo de energía prepago;daños energia
+98;daños energia prepago;;;Tengo energía prepaga con EPM y se me presentó un daño en el servicio;daños energia
+99;Daños regionales.;;;;daños energia
+100;Antioquia Iluminada.;;;;daños energia
+101;Ingreso y consulta de solicitudes de energía para vivienda nueva.;;;Punto de conexión.Deseo saber cómo y dónde puedo solicitar un nuevo servicio de energía .Tengo un pedido de energía y deseo saber cómo va el proceso.Necesito terminar de legalizar el servicio de energía para que me llegue la factura del consumo;daños energia
+102;Ingreso y consulta de solicitudes de deselles (retirar sello al medidor para trabajos).;;;;daños energia
+103;Ingreso y consulta de solicitudes para trabajos en redes de energía (traslado, retiros, etc.).;;;;daños energia
+104;Certificado de Retie.;;;;daños energia
+105;Movilidad eléctrica: (Validación estado de tarjeta, saldo, lugar de recarga);¿Su tarjeta es una tarjeta para compras, para beneficios de GNV o movilidad eléctrica?;Si es de movilidad eléctrica se transfiere a Daños energía;Deseo saber cómo puedo acceder al servicio de movilidad eléctrica.Tengo movilidad eléctrica con EPM y se me presentó un daño en el servicio;daños energia
+106;Verificar obras accesorias energía;;;;daños energia
+107;"Energía solar.
+Deseo solicitar una tercera cita de autogeneradores a pequeña escala.";;;;daños energia
+108;"Energía solar.
+Deseo adquirir el servicio de energía solar.";Deseo adquirir el servicio de energía solar. ¿Desea solicitar cotización o desea saber sobre el crédito para realizar la instalación?;Solicitar cotización se transfiere a energía.Solicitar crédito se transfiere a SOMOS;Tengo un pedido de autogenerador y deseo agendar una cita;daños energia
+109;"Energía solar.
+Deseo adquirir el servicio de energía solar.";Deseo adquirir el servicio de energía solar. ¿Desea solicitar cotización o desea saber sobre el crédito para realizar la instalación?;Solicitar cotización se transfiere a energía.Solicitar crédito se transfiere a SOMOS;Estoy en proceso de la instalación de paneles solares:.Deseo saber cómo realizar la instalación de los páneles solares por primera vez.Tengo energía solar con EPM y se me presentó un daño en el servicio.Deseo saber cómo puedo solicitar el retiro definitivo de energía solar;daños energia
+110;Asesoría en trámites respecto al servicio de energía.;;;;daños energia
+111;Retiro de vientos.;;;;daños energia
+112;Información falta de energía oxigeno dependientes.;;;;daños energia
+113;Ingreso de interventorías de proyectos de energía;;;Tengo un proyecto de energía y deseo agendar una cita de interventoría;daños energia
+114;Quejas energía;"¿Quiero que me comuniquen con el área de quejas?
+¿Desea quejarse por valores facturados, daños o por qué motivo?";Si es por: Daños, interrupciones, servicio nuevo energía, procesos energía, garantías por trabajos de energía.;;daños energia
+115;Alto consumo servicios servicios EGA;;;Revisiones por consumo.Revisión previa (Llega carta por alto consumo);orientacion factura
+116;Alto consumo servicios servicios EGA;;;Me están facturando mucho de servicios.Me está llegando mucho de agua.Me está llegando mucho de energía.Me está llegando mucho de gas.El valor de la factura me ha incrementado mucho.Visitaron por alto consumo de agua y en el lugar indicado no hay ningún daño;orientacion factura
+117;Suspensión y reconexión por pago.;;;Me suspendieron el servicio ya pagué y no me han reconectado.Me retiraron el servicio ya pagué y no me han reinstalado.Necesito saber cuándo me reconectan o me reinstalan el servicio.Tengo pendiente una reconexión o reinstalación del servicio EGA.Me suspendieron los servicio EGA;orientacion factura
+118;Suspensión y reconexión por pago.;;;Necesito financiar para que me conecten el servicio EGA.Tengo el servicio suspendido y deseo financiar para reconectarlo.Necesito conocer el valor de la reconexión.Necesito saber cuándo me hacen la reconexión del servicio.Hice una financiación y no me han reconectado el servicio;orientacion factura
+119;Suspensión por error de acueducto y energía;;;Vinieron a realizar la suspensión del servicio de mi vecino y no se porque me dejaron a mi sin (servicios EGA);orientacion factura
+120;Tarifas de los servicios EGA.;;;Valor del M3 de agua, M3 gas, KW energía.Cargos fijos de los servicios EGA.Valores de las reconexiones, suspensiones.¿Cómo aplica el subsidio para los estratos 1,2,3?;orientacion factura
+121;Cuotas y estado de financiaciones por consumo, trabajos o equipos.;;;Cómo puedo pagar el total del valor financiado o como puedo abonar a mi financiación.Quiero trasladar el valor de mi financiación;orientacion factura
+122;Cuotas y estado de financiaciones por consumo, trabajos o equipos.;;;Cuántas cuotas me faltan por pagar de ….Cuál es el valor de cada cuota de un trabajo que me realizaron del servicio de …..Cuál es el valor que me financiaron por xxx trabajo de?.Cuál es el valor que me financiaron del servicio nuevo de acueducto y/o energía;orientacion factura
+123;Reporte en centrales de riesgo de los servicios EGA.;El reporte en las centrales de riesgo esde SOMOS o es de servicios EGA;"Si el reporte es de los servicios EGA con factura
+Si el reporte es de Somos es con SOMOS";Me informaron que estaba reportado en centrales de riego por EPM.Necesito un paz y salvo ya que estaba reportado por EPM;orientacion factura
+124;Solicitud de exención de contribución de energía y gas.;;;¿Por qué cobran la contribución a los estratos 5 y 6 comercial e industrial?.Necesito información sobre la exención a la contribución y qué documentos debo de presentar.;orientacion factura
+125;Paga a tu medida.;;;Quiero inscribirme a paga a tu medida.Quiero hacer un abono a mi cuenta;orientacion factura
+126;Pagos fraccionados.;;;Quiero hacer un abono a mi cuenta;orientacion factura
+127;Pagos parciales.;;;Quiero hacer un abono a mi cuenta;orientacion factura
+128;Puntos de pago.;;;Cuáles son los puntos donde puedo pagar mi factura;orientacion factura
+129;Separación de cuenta (Trámite también con ema).;;;Quiero pagar uno de mis servicios EGA.Quiero pagar mis servicios EGA menos SOMOS;orientacion factura
+130;Financiación.;;;Necesito financiar trabajos del servicio EGA.Por qué me están cobrando un trabajo que me iban a financiar.Quiero financiar un trabajo que me realizaron.Necesito financiar mi factura de consumo.Qué documentación necesito para financiar mi factura;orientacion factura
+131;Casas de cobro Coguasimales   Bambú BPO.;;;Cuáles son los números de contacto de las casas de cobro.Cuál es el horario y correo electrónico de las casas de cobro.Me están llegando mensajes de cobranza;orientacion factura
+132;Cupón de pago anticipado: Revisión de planos (es para revisar los diseños del proyecto).;;;Necesito hacer un cupón de pago de interventoría o revisión de planos;orientacion factura
+133;Cupón de pago anticipado:Visita de puesta en servicio (es para instalar el servicio de energía cuando ya revisaron y aprobaron la revisión de planos).;;;Necesito hacer un cupón para realizar una visita de puesta en servicio.Necesito un cupón de puesta en servicio.Tengo un proyecto de energía y deseo pagar el cupón de visita puesta en servicio;orientacion factura
+134;Cupón de pago anticipado:Alquiler de poste: ( Es único cupón que es distinto, ya que lo solicita una empresa para poner publicidad en los postes que son propiedad de EPM, entonces EPM los alquila para que estas empresas pongan pendones, vallas, avisos etc).;;;Necesito realizar un cupón de pago para instalar una publicidad.Necesito pagar una publicidad para ponerla en los postes de EPM.Necesito un cupón para un pasacalle o valla;orientacion factura
+135;Cupón de pago anticipado:Movimiento de redes - chequeo de cables: (como su nombre lo dice es un cupón  para mover o verificar y chequear redes eléctricas);;;Necesito realizar un cupón para mover unos cables.Necesito pagar un cupón para mover un transformado.Necesito un cupón para revisar unos cables.Necesito mover unas redes eléctricas;orientacion factura
+136;Cupón de pago anticipado:Aperturas (es el cupón que solicita el usuario cuando necesita hacer una interrupción del servicio eléctrico en una subestación o en un inmueble ya sea, edificios comerciales o unidades residenciales, para realizar trabajos de reparación o mantenimiento.;;;Necesito realizar un cupón para suspender el servicio de energía.Necesito un cupón para realizar trabajos de reparación y/o mantenimiento en una subestación.Necesito un cupón para interrumpir el servicio de energía;orientacion factura
+137;Cupón de pago anticipado: Autogeneradores;;;;orientacion factura
+138;Cupón de pago anticipado: Ajustes de pago anticipado es cuando un usuario pagó más o pagó menos en alguno de los anteriores cupones.;;;Pagué menos en un cupón de pago anticipado proyectos eléctricos.Pagué más en un cupón de pago anticipado proyectos eléctricos.Pagué por error un cupón de proyectos eléctricos.El tipo de cupón de pago anticipado no es correcto;orientacion factura
+139;Consulta saldo de factura.;;;Quiero saber el valor de mis servicios EGA.Quiero saber cuál es el valor de las otras entidades.Cuál es el valor total de mi factura;orientacion factura
+140;Envío de duplicado de factura.;;;Necesito una copia de mis servicios públicos;orientacion factura
+141;Fecha de pago de la factura;;;Cuál es el periodo de consumo facturado.Fecha límite de pago.Facturas vencidas;orientacion factura
+142;Inscripción factura web.;;;Cómo puedo consultar mis facturas por la página web de EPM.Quiero hacer una inscripción para que mi factura me llegue al correo.Quiero recibir mi factura electrónica.No me está llegando mi factura física;orientacion factura
+143;Orientación EMA.;;;;orientacion factura
+144;Orientación PQR por WEB.;;;Quiero poner una PQR.Cómo puedo poner una PQR por la página web de EPM.Necesito la respuesta de una PQR.No me ha llegado respuesta de una PQR.Realicé una PQR por la página y quiero conocer la respuesta.Necesito saber el estado de una PQR.;orientacion factura
+145;Orientación PQR por WEB.;;;Necesito información sobre un radicado que hice por la página o en la oficina.;orientacion factura
+146;Bonos de vida.;;;Tengo un bono para aplicar a mis servicios públicos.Quiero redimir un bono de EPM y pagar mis servicios públicos.Necesito hacer efectivo un bono de EPM que me regalaron y pagar mis servicios públicos.Cuál es la vigencia de los bonos de vida.;orientacion factura
+147;Retiro definitivos servicios EGA;;;Cuál es el valor a pagar para retirar mis servicios EGA.Deseo retirar los servicios de las áreas comunes.Deseo retirar de forma definitivalos servicios EGA;orientacion factura
+148;Explicación valores facturados;;;Deseo saber por qué me están cobrando alumbrado público en la factura.Necesito información sobre el cobro de seguro vital y asistencia domiciliaria.Me llegó la factura de este mes doble y yo pagué la del mes pasado;orientacion factura
+149;Explicación valores facturados;;;Deseo información general sobre mi factura.Cobros energía solar.Cobros por trabajos realizados.No me están cobrando el servicio de energía, gas, acueducto;orientacion factura
+150;Cambio nombre del cliente en la factura.;;;;orientacion factura
+151;Cambio de estrato.;;;;orientacion factura
+152;Pagos no aplicados, anulado o errado;;;Pagué mi factura a número de contrato o dirección diferente.Me registra que no he pagado la factura y ya lo realicé el pago;orientacion factura
+153;Devolución por pagos dobles.;;;;orientacion factura
+154;Unificación de facturas.;;;;orientacion factura
+155;Causa 02 steaker;;;Me dejaron un comprobante y me informan que no fue posible leero acceder los medidores;orientacion factura
+156;Cambio de dirección de envío de la factura.;;;Necesito que mi factura de servicios EGA me llegue de nuevo a mi casa.Mi factura no me está llegando al inmueble original y necesito que llegue de nuevo;orientacion factura
+157;Quejas factura;"¿Quiero que me comuniquen con el área de quejas?
+¿Desea quejarse por valores facturados, daños o por qué motivo?";Si es por: Valores facturados;;orientacion factura
+158;Agendamiento citas de administradores;;;Necesito realizar un reclamo para áreas comunes.Necesito realizar una financiación para áreas comunes.Necesito una cita para adiministradores.Necesito una cita para unidad residencial;orientacion factura
+159;Agendamiento citasentidades oficiales;;;"Citas para.
+Metro Medellín.Municipio de Medellín.Empresa de vivienda de Antioquia.Isvimed.EDU.Unidad de atención y reparación integral a las victimas (UARIV)";orientacion factura
+160;Revisiones por reclamación;;;Se da cuando el usuario manifiesta una inconformidad por los valores facturados, en este caso el usuario es quien solicita la revisión;orientacion factura
+161;Cobros revisión periódica;;;Valor financiado o a financiar y/o el valor total del costo de la RP;orientacion factura
+162;Cambio de categoría;;;Quiero cambiar la categoría de mi casa o inmuble.Quiero modificar la categoría de mis servicios públicos en mi inmueble.Tenia un negocio o un local y me facturaban como comercial y ahora es una casa;orientacion factura
+163;Atenciones en línea;;;"Ley 820
+.Quiero saber como hago para que mi arrendatario se responsabilice de los servicios y/o financiaciones.Ley que cubre a los propietarios cuando van a arrendar";orientacion factura
+164;Minimo vital;;;No me llegó el subsidio del mínimo vital.No se aplicó el subsidio del minimo vital.Necesitoinformación sobre el programa minimo vital;orientacion factura
+165;Información general para Adquirir la tarjeta CrediSomos.;Compra de electrodomésticos y/o gasodomésticos ¿La compra desea realizarla financiada con EPM o va a usar otro medio de pago?;Si el usuario desea solicitar un cupo de tarjeta para financiar la compra de electrodomésticos, gasodomésticos o realizar mejoras a su vivienda y pagar en la factura de EPM se debe transferir a SOMOS;Usuario solicita comprar un Gasodomésticos y no tiene crédito somos.;somos
+166;Ingreso y consulta solicitudes de crédito con tarjeta Somos.;¿Su tarjeta es una tarjeta para compras, para beneficios de GNV o movilidad eléctrica?;Si es una tarjeta para compras o para beneficios de GNV se transfiere a SOMOS;Usuario solicita información del estado de cuenta de su crédito de conversión GNV (Gas Natural vehicular):;somos
+167;Solicitudes de crédito Somos por Facebook.;;;;somos
+168;Aumento y disminución de cupo tarjeta Somos.;;;;somos
+169;CrediSomos Negocios (crédito para empresas).;;;;somos
+170;CrediSomos Ágil (crédito sin tarjeta).;Compra de electrodomésticos y/o gasodomésticos ¿La compra desea realizarla financiada con EPM o va a usar otro medio de pago?;Si el usuario desea solicitar un cupo de tarjeta para financiar la compra de electrodomésticos, gasodomésticos o realizar mejoras a su vivienda y pagar en la factura de EPM se debe transferir a SOMOS;;somos
+171;CrediSomos ECO (financiación GNV y soluciones Solares).;¿Desea financiar con crédito Somos EPM los equipos para realizar la instalación de esta solución de energía solar?;Si el usuario desea financiar es con Somos.Si desa pagar de contado u otros medios de pago es con Energía;"Usuario solicita asesoría con respecto a la línea de crédito ""CrediSomos Eco"" y ""CrediSomos Tarjeta"":";somos
+172;Entrega de la tarjeta SOMOS (activación del crédito).;¿Su tarjeta es una tarjeta para compras, para beneficios de GNV o movilidad eléctrica?;Si es una tarjeta para compras o para beneficios de GNV se transfiere a SOMOS.;;somos
+173;Actualización de datos ViveSomos.;;;;somos
+174;Acumulación y redención de puntos GNV - Puntos Leal.;;;;somos
+175;Ingreso peticiones y quejas para el programa SOMOS.;;;;somos
+176;Ofertas o descuentos con Somos.;Compra de electrodomésticos y/o gasodomésticos ¿La compra desea realizarla financiada con EPM o va a usar otro medio de pago?;Si el usuario desea solicitar un cupo de tarjeta para financiar la compra de electrodomésticos, gasodomésticos o realizar mejoras a su vivienda y pagar en la factura de EPM se debe transferir a SOMOS.;;somos
+177;Oferta gasodomésticos con aliados comerciales.;Compra de electrodomésticos y/o gasodomésticos ¿La compra desea realizarla financiada con EPM o va a usar otro medio de pago?;Si el usuario desea solicitar un cupo de tarjeta para financiar la compra de electrodomésticos, gasodomésticos o realizar mejoras a su vivienda y pagar en la factura de EPM se debe transferir a SOMOS.;Usuario tiene una modalidad de crédito con somos o EPM y desea comprar el Gasodoméstico con un aliado comerciales con.;somos
+178;Bloqueo de tarjeta Somos.;¿Su tarjeta es una tarjeta para compras, para beneficios de GNV o movilidad eléctrica?;Si es una tarjeta para compras o para beneficios de GNV se transfiere a SOMOS.;;somos
+179;Reexpedición de tarjeta Somos.;¿Su tarjeta es una tarjeta para compras, para beneficios de GNV o movilidad eléctrica?;Si es una tarjeta para compras o para beneficios de GNV se transfiere a SOMOS.;;somos
+180;Reporte en centrales de riesgo SOMOS.;;;;somos
+181;Consulta de saldo disponible para compras Somos tarjeta.;¿Su tarjeta es una tarjeta para compras, para beneficios de GNV o movilidad eléctrica?;Si es una tarjeta para compras o para beneficios de GNV se transfiere a SOMOS;;somos
+182;Consulta de saldo disponible para compras Somos crédito sin tarjeta.;Crédito sin tarjeta: ¿Desea financiar algún servicio del catálogo de EPMATP?;Si desea financiar un servicio con un aliado externo se debe transferir a SOMOS.;;somos
+183;Consultar el valor a pagar SOMOS: Crédito Somos tarjeta, CrediSomos Negocios (crédito crecer o crédito empresas), CrediSomos Eco (crédito de destinación específica GNV o soluciones Solares), CrediSomos Ágil (crédito Somos Sin tarjeta).;;;Usuario solicita validar número de cuotas pendientes financiación de Somos se debe transferir a SOMOS.;somos
+184;Financiar deuda Somos.;;;;somos
+185;Abono y pago total Somos.;;;;somos
+186;Pago parcial Somos (la factura debe estar separada de lo contrario se debe remitir a una oficina).;;;;somos
+187;Cambio de dirección Somos.;;;;somos
+188;Separación de factura Somos.;;;;somos
+189;Horarios puntos de atención Somos (Son diferentes a las oficinas EPM).;;;;somos
+190;ViveSomos filiales ESSA, EDEQ (No transferir, brindar el número de ViveSomos para cada una):;No transferir, brindar el número de ViveSomos para cada una:;Somos EDEQ (Quindío): 741 3110Somos ESSA (Santander): 652 8888;;somos
+191;Servicio nuevo de gas para vivienda, local comercial y empresas.;;;Usuario solicita información de proyectos residencial o comerciales de gas natural:;solgas
+192;Suspensión de gas por falta de legalización o prueba de monóxido de carbono ( Me suspendieron el gas);¿Le dejaron alguna boleta de esta suspensión, donde se visualice el motivo?;Por falta de legalización;Necesito terminar de legalizar el servicio de gas para que me llegue la factura del consumo:;solgas
+193;Reparación interna del gas por daño detectado en revisión periódica: ( Me suspendieron por revisión periódica;¿La suspensión se hizo por no realizar la revisión periódica o porque se encontró daño al momento de la revisión? Por daño encontrado en la revisión periódica aplicar la siguiente pregunta filtro: El daño que se encontró en la revisión periódica es interno o externo?;Reparación interna solgas.Reparación externa (centro de medición): daños gas;;solgas
+194;Programar asistencia técnica del gas;;;;solgas
+195;Inconformidad por demora en el tiempo de atención para instalar un servicio nuevo de gas.;;;;solgas
+196;Compra e información de gasodomésticos.;Compra de electrodomésticos y/o gasodomésticos ¿La compra desea realizarla financiada con EPM o va a usar otro medio de pago?;Si el usuario desea adquirir un gasodoméstico y desea efectuar el pago en efectivo, tarjeta débito o tarjeta de crédito de un banco se debe transferir;Usuario requiere compra de gasodoméstico incluyendo adecuación de la red de gas para el equipo, se debe transferir a solgas.Usuario solicita comprar un Gasodomésticos y desea realizar el pago con otro medio de pago (efectivo, tarjeta débito, tarjeta de crédito);solgas
+197;Compra e información de gasodomésticos.;Compra de electrodomésticos y/o gasodomésticos ¿La compra desea realizarla financiada con EPM o va a usar otro medio de pago?;Si el usuario desea adquirir un gasodoméstico y desea efectuar el pago en efectivo, tarjeta débito o tarjeta de crédito de un banco se debe transferir;Usuario requiere compra de gasodomésticos incluyendo adecuación de la red de gas para el equipo.Usuario solicita comprar un Gasodomésticos y tiene crédito somos.;solgas
+198;Información sobre GNV (gas natural vehicular).;;;Garantía por trabajos en vehículos convertidos a GNV (Gas Natural vehicular).Usuario solicita retiro definitivo del servicio de gas natural.Usuario solicita información de proyectos residencial o comerciales de gas natural:;solgas
+199;Información sobre GNV (gas natural vehicular).;;;Usuario solicita información para bonos de conversión GNV (Gas Natural vehicular).Usuario solicita información de los talleres GNV (Gas Natural vehicular).Usuario solicita información de las EDS (Estaciones de servicio) de Gas Natural vehicular.;solgas
+200;Es un servicio nuevo ya instalado de gas y aún no recibe cobro en su factura.;;;;solgas
+201;Orientación de entidades particulares para reparación de daños internos del gas;;;;solgas
+202;Retiro del servicio de gas;Quiero suspender el gas ¿La suspensión es temporal o definitiva?;"Si es temportal: daños gas
+Si es definitivo: orientacion factura";;solgas
+203;Garantía por instalación nueva de gas;;;;solgas
+204;Suspensión del servicio de gas y no tiene conocimiento del motivo.;;;;solgas
+205;Información sobre el subsidio de la alcaldía para la instalación del servicio de gas.;;;;solgas
+206;Viabilidad de redes existentes para solicitar un servicio nuevo de gas;;;;solgas
+207;Reforma en redes internas de gas;;;;solgas
+208;Estado de solicitud servicio nuevo de gas;;;;solgas
+209;Información proyectos nuevos de gas.;;;;solgas
+210;Quejas solgas;¿Quiero que me comuniquen con el área de quejas?.¿Desea quejarse por valores facturados, Servicios nuevo, daños o por qué motivo?;Si es por: Instalación servicio nuevo, reparación, reforma de la red interna de gas o trabajos en redes externas;;solgas
+211;Garantía artículos de gasodomésticos.;¿Dónde compro el artículo? Si el usuario indica que fueron de EPM y se lo vendieron en su casa, debes preguntarle qué medio de pago utilizó:;Efectivo, tarjeta débito o tarjeta de crédito de un banco, crédito Somos tarjeta;;solgas
+212;Reporte de fuga/olor a gas interno o externo. (Tengo una fuga en la llave del gas);La llave es la interna o la llave de externa del medidor.;"Interna: solgas 
+Externa: daños gas";Para reportar un 1500 es porque el funcionario se encuentra en la vivienda revisando y detecto olor a gas.;daños gas
+213;Orientación de entidades particulares para reparación de daños externos del gas;;;;daños gas
+214;Reparación en el contador de gas o red externa de la vivienda. (Me suspendieron el gas por la revisión periódica);¿La suspensión se hizo por no realizar la revisión periódica o porque se encontró daño al momento de la revisión? Si es por daño encontrado en la revisión periódica aplicar la siguiente pregunta filtro: ¿El daño que se encontró en la revisión periódica es interno o externo?;"Interna: solgas 
+Externa: daños gas";;daños gas
+215;Reporte de posible fraude de gas;;;;daños gas
+216;Cambio de llave del gas ubicada dentro del gabinete.;;;;daños gas
+217;Cambio de medidor de gas o regulador en gabinete.;;;;daños gas
+218;Verificación de redes existentes de gas (por donde pasa la red principal para realizar  trabajos externos).;;;;daños gas
+219;Suspensión temporal del gas por modificaciones/reforma en la vivienda. (Quiero suspender el servicio de gas);¿La suspensión es temporal o definitiva?;Si es temporal con: daños gas.Si es definitiva con: orientacion factura;Necesito que me cierren el gas por una modificación o reforma.Usuario solicita retiro temporal del servicio de gas natural por vivienda desocupada o trabajos de reparación y/o reforma en el inmueble;daños gas
+220;Reconexión del servicio de gas por ocupación de vivienda.;;;;daños gas
+221;Daño en red/línea matriz o zonas comunes (Sistema de tuberías exteriores o interiores a la edificación en este último caso, ubicadas en las áreas comunes de la edificación);;;;daños gas
+222;Reforma de acometida externa de gas.;;;;daños gas
+223;Baja o alta presión de gas.;;;;daños gas
+224;Conexión de gasodomésticos (solo incluye conectar la manguera al gasodoméstico).;;;Usuario solicita cambio de conector flexible del gasodoméstico:.Usuario solicita conectar un gasodoméstico nuevo que ya se encuentra instalado;daños gas
+225;Calibración de medidor de gas;;;;daños gas
+226;Matricular o registrar un medidor de gas;;;;daños gas
+227;Ausencia del servicio de gasen el sector Me suspendieron el gas o no tengo servicio de gas;¿Le dejaron alguna boleta de esta suspensión, donde se visualice el motivo?;No dejaron o no tiene  boleta (ausencia del servicio).Por pago: orientacion factura;;daños gas
+228;Quejas daños gas;"¿Quiero que me comuniquen con el área de quejas?
+¿Desea quejarse por valores facturados, daños o por qué motivo?";Si es por: Daños en centro de medición, red externao ausencias gas.;;daños gas
+229;Revisar estado de reporte de daño de gas;;;;daños gas
+230;Programar o reprogramar visita de revisión periódica (Me llegó notificación);¿Es la revisión periodica de los 5 años?;Revisión periódica;Para realizar la revisión periódica de los 5 años;revisiones periodicas
+231;Agendar segunda visita de revisión periódica luego de las correcciones solicitadas.;;;;revisiones periodicas
+232;Agendar segunda visita de revisión periódica luego de las correcciones solicitadas.;;;;revisiones periodicas
+233;Solicitar retiro de dispositivo (CEPO) para reparar en centro de medición.;;;;revisiones periodicas
+234;Reportar un 1200 (Reporte que generan los inspectores cuando detectan un defecto crítico y deben suspender);;;;revisiones periodicas
+235;Incumplimiento de visita.;;;;revisiones periodicas
+236;Empresas  particulares que realizan la revisión periódica.;;;;revisiones periodicas
+237;Servicio de gas suspendido por vencimiento de la revisión periódica;Me suspendieron por revisión periódica. ¿La suspensión se hizo por no realizar la revisión periódica o porque se encontró daño al momento de la revisión?;Por no realizar la revisión periódica;;revisiones periodicas
+238;Revisión y certificación de la red/línea matriz. (Sistema de tuberías exteriores o interiores a la edificación en este último caso, ubicadas en las áreas comunes de la edificación);;;;revisiones periodicas
+239;Ya le hicieron la revisión, pero recibió un comunicado de suspensión.;;;;revisiones periodicas
+240;Recibió la notificación de revisión de gas en la factura o por carta;;;;revisiones periodicas
+241;Verificación de identidad del técnico que realiza la revisión periódica.;;;;revisiones periodicas
+242;Tarifas de la revisión periódica del gas;;;;revisiones periodicas
+243;Quejas revisiones periódicas;"¿Quiero que me comuniquen con el área de quejas?
+¿Desea quejarse por valores facturados, daños o por qué motivo?";Si es por: temas asociados a la revisión periódica del gas;;revisiones periodicas
+244;Revisión de procesos de atención o revisión periódica.;;;;revisiones periodicas
+245;Adquirir equipos y soluciones de energía solar;¿Desea financiar con crédito Somos EPM los equipos para realizar la instalación de esta solución de energía solar?;Si el usuario desea financiar es con Somos.Si desa pagar de contado u otros medios de pago es con Energía;Cómo puedo pagar la instalación de los páneles solares;somos
+246;Garantía de artículo financiado;Garantía de artículo: gasodoméstico o electrodoméstico: ¿Dónde compro el artículo?;Si el usuario realizó la compra directamente en un almacén aliado (ejemplo: Éxito, Multintegral, Dismogas, etc) se debe transferir a SOMOS.;;somos
+247;Adquirir electrodoméstico o gasodomésticopor catálogo;Compra de electrodomésticos y/o gasodomésticos ¿La compra desea realizarla financiada con EPM o va a usar otro medio de pago?;"Si el usuario desea adquirir un electrodoméstico o gasodomésticos por ""Catálogo"" (el usuario debe mencionar la palabra catálogo) y financiarlo con Somos se debe transferir a EPM ATP (EPM a tu puerta).";Me llego un mensaje de texto para elegir un articlo de un gasodomestico o un electrodomestico;epm puerta
+248;Garantía del artículo financiado (electrodoméstico - gasodoméstico;Quiero solicitar garantía de un artículo financiado ¿Dónde compro el artículo?;Si el usuario indica que fueron de EPM y se lo vendieron en su casa, debes preguntarle qué medio de pago utilizó: Crédito Somos Sin tarjeta se debe transferir a EPM a tu Puerta.;;epm puerta
+249;Crédito sin tarjeta;Crédito sin tarjeta: ¿Desea financiar algún servicio del catálogo de EPMATP?;Si desea financiar algún servicio del catálogo de EPMATP se debe transferir a EPM a tu Puerta.;;epm puerta
+250;Legalizar o activar crédito sin tarjeta;Legalizar o activar crédito: ¿Es un crédito CON o SIN tarjeta?;Si es SIN tarjeta se debe transferir a EPM a tu Puerta.;;epm puerta
+251;Membresía EPM A TU PUERTA;;;Qué cupo tengo disponible en la membresía.Qué disponibilidad tengo el la bolsa de membresía.Quiero adquirir una membresía para mi negocio ?.Quiero adquirir una membresía para mi casa ?;epm puerta
+252;Garantía del servicio de electrodoméstico o gasodoméstico;;;;epm puerta
+253;Cambio de persona autorizada ( para atender la reparación, mantenimiento e instalación);;;;epm puerta
+254;Concurso de referidos epm a tu puerta;;;;epm puerta
+255;Agendamiento por medio de la membresia;;;;epm puerta
+256;Cambio de opción de pago;;;;epm puerta
+257;Reprogramación;;;;epm puerta
+258;Instalación, mantenimiento o reparación- Neveras-Nevecom;;;;epm puerta
+259;Instalación, mantenimiento o reparación - Aires acondicionados;;;;epm puerta
+260;Instalación, mantenimiento o reparación - Congeladores;;;;epm puerta
+261;Instalación, mantenimiento o reparación - Lavadoras;;;;epm puerta
+262;Instalación, mantenimiento o reparación - Lavavajillas;;;;epm puerta
+263;Instalación, mantenimiento o reparación - Calentadores;;;;epm puerta
+264;Instalación, mantenimiento o reparación - Cubiertas de cocina;;;;epm puerta
+265;Instalación, mantenimiento o reparación - Horno eléctricos o a gas;;;;epm puerta
+266;Instalación, mantenimiento o reparación - Estufas eléctricos o a gas;;;Quiero hacerle un mantenimiento a mi estufa con pipeta de gas;epm puerta
+267;Instalación, mantenimiento o reparación - Campanas Extractoras;;;;epm puerta
+268;Quejas Epm a tu puerta;"¿Quiero que me comuniquen con el área de quejas?
+¿Desea quejarse por valores facturados, daños o por qué motivo?";Si es por: Servicio prestado por instalación, mantenimiento o reparación de electrodoméstico o gasodoméstico: EPM A TU PUERTA;;epm puerta
+269;Quejas;"¿Quiero que me comuniquen con el área de quejas?
+¿Desea quejarse por valores facturados, daños o por qué motivo?";Si el usuario desea ingresar una: Felicitaciones, sugerencias,Inconformidad con la atención brindada por parte de un funcionario, contratista o creador de experiencia de la línea.;;quejas

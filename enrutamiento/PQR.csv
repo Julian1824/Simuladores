@@ -1,0 +1,131 @@
+﻿1;Me llego un mensaje de texto para elegir un artículo de un gasodoméstico un electrodoméstico;epm puerta
+2;Qué cupo tengo disponible en la membresía.Qué disponibilidad tengo el la bolsa de membresía.Quiero adquirir una membresía para mi negocio ?.Quiero adquirir una membresía para mi casa?;epm puerta
+3;Quiero hacerle un mantenimiento a mi estufa con pipeta de gas;epm puerta
+4;Para realizar la revisión periódica de los 5 años.Revisión quinquenal;epm puerta
+5;Me robaron el medidor de gas;revisiones periodicas
+6;Usuario requiere compra de gasodomésticos incluyendo adecuación de la red de gas para el equipo.Usuario solicita comprar un Gasodomésticos y tiene crédito somos;daños gas
+7;Usuario requiere compra de gasodoméstico incluyendo adecuación de la red de gas para el equipo, se debe transferir a SOLGAS.Usuario solicita comprar un Gasodomésticos y desea realizar el pago con otro medio de pago (efectivo, tarjeta débito, tarjeta de crédito) es con;daños gas
+8;Me hicieron una revisión con geófono.Quiero que me revisen un daño de agua con geófono;solgas
+9;Cobros energía solar.Cobros por trabajos realizados.No me están cobrando el servicio de energía, gas, acueducto.Información debito automático o tarjetas de crédito para pago de sercicios públicos;orientacion factura
+10;Deseo saber por qué me están cobrando alumbrado público en la factura.Necesito información sobre el cobro de seguro vital y asistencia domiciliaria.Me llegó la factura de este mes doble y yo pagué la del mes pasado.Deseo información general sobre mi factura;orientacion factura
+11;Valor del M3 de agua, M3 gas, KW energía.Cargos fijos de los servicios EGA.Valores de las reconexiones, suspensiones.¿Cómo aplica el subsidio para los estratos 1,2,3?.Subsidios EGA;orientacion factura
+12;Deseo saber cómo puedo solicitar el retiro definitivo de energía solar.Tengo un pedido de autogenerador y deseo agendar una cita.Sistema fotovoltáico.Vista para una inspección fotovoltáica;orientacion factura
+13;Estoy en proceso de la instalación de paneles solares:.Deseo saber cómo realizar la instalación de los páneles solares por primera vez.Tengo energía solar con EPM y se me presentó un daño en el servicio;orientacion factura
+14;Deseo saber el valor de los kilovatios de energía prepago que me están cobrando.Las recargas de energía prepago no me están durando.Alto consumo de energía prepago.PIN energía prepago;daños energia
+15;Deseo saber cómo puedo adquirir el servicio de energía prepago.Deseo saber cómo puedo solicitar el retiro del servicio de energía prepago.Tengo un pedido de energía prepago y deseo saber cómo va el proceso;daños energia
+16;Información línea viva.Se me dañó un electrodoméstico y deseo solicitar reposición o reparación.Tengo energía convencional con EPM y se me presentó un daño en el servicio.Daño en trenza, daño en cañuela o vela, daño en poste o paral, daño en caja de distribución.Daño en medidor de energía o breakers, retiro poste;daños energia
+17;Hay un hueco en la calle.Dejaron un hueco en la calle.Dejaron escombros en la calle.¿Cuándo van a pavimentar un hueco?;daños energia
+18;Dejaron unos escombros al lado de un hueco en la calle después de un trabajo de acueducto;daños acueducto
+19;Deseo trasladar el medidor de agua de lugar.Deseo trasladar la acometida de acueducto;daños acueducto
+20;¿A qué horas llega el agua por este sector?.¿Estamos sin agua en el barrio y necesitamos que nos informe qué sucede?;daños acueducto
+21;El agua de la llave está llegando muy sucia.Por qué está llegando el agua tan sucia.Qué daño hay que tenemos el agua tan sucia.El agua está llegando con pantano y se nos está dañando la ropa;daños acueducto
+22;El agua presenta mal olor, como a metal.El agua tiene un olor diferente;daños acueducto
+23;El agua me sabe raro.El agua tiene un sabor diferente;daños acueducto
+24;Para reportar un daño del agua;daños acueducto
+25;¿Quiero saber si un daño de agua en la calle me corresponde pagarlo?;daños acueducto
+26;Hicieron un trabajo de acueducto y se presenta nuevamente el daño;daños acueducto
+27;Para reportar un daño en la llave del contador;daños acueducto
+28;Es que me está llegando muy poca agua a la casa;daños acueducto
+29;Está saliendo agua de donde se conectan los bomberos;daños acueducto
+30;Se robaron un medidor de agua.Para reportar un robo de medidor.Está saliendo mucha agua del contador;daños acueducto
+31;Tengo mucha presión de agua en mi casa.Se me presentaron varios daños en la casa porque está llegando con mucha presión;daños acueducto
+32;Está saliendo agua del medidor;daños acueducto
+33;Me robaron la tapa del contador de acueducto.Necesito que me instalen la tapa del contador de agua.Quiero que le coloquen la tapa al contador de acueducto;daños acueducto
+34;El medidor no me toma la recarga.El medidor no me lee la recarga.El medidor prepago no funciona.La tarjeta de agua prepago está mala.En los puntos me dicen que la tarjeta no funciona;daños acueducto
+35;Tengo una humedad en uno de los muros.Mi vecino me está generando un perjuicio, tiene una humedad;daños acueducto
+36;Para reportar un daño de aguas negras.Está saliendo agua por la calle y levanta muy malos olores;daños acueducto
+37;Necesito cambiar la tuberia de acueducto.Necesito cambiar la tubería de aguas negras.La tubería está en atenor;daños acueducto
+38;Se están devolviendo las aguas negras.Me estoy inundano con agua sucia;daños acueducto
+39;Hay un hueco en la calle.Dejaron un hueco en la calle.Dejaron escombros en la calle.Obras accesorias;daños acueducto
+40;Hay una alcantarilla sin tapa;daños acueducto
+41;Para reportar un fraude de agua;daños acueducto
+42;Me llegó una carta para cambio de medidor;daños acueducto
+43;Necesito terminar de legalizar el servicio de acueducto para que me llegue la factura del consumo:.Necesito legalizar el servicio de acueducto para terminar la instalación:.Deseo instalar el servicio de acueducto;daños acueducto
+44;Conceptos recargas de agua prepago.¿Qué beneficios tiene el servicio de agua prepago.¿Cómo funciona el servicio de agua prepago?.No me están durando las recargas de agua prepago;daños acueducto
+45;Se me perdió la tarjeta de agua prepago.Se me dañó la tarjeta de agua prepago.Se me robaron el medidor de agua prepago;daños acueducto
+46;Quiero saber en que estado se encuentra un daño reportado;daños acueducto
+47;Necesito un liparal;daños acueducto
+48;Necesito un servicio de circuito cerrado de televisión;daños acueducto
+49;El rio Medellín o quebrada está de color;daños acueducto
+50;Información línea viva.Se me dañó un electrodoméstico y deseo solicitar reposición o reparación.Tengo energía convencional con EPM y se me presentó un daño en el servicio;daños acueducto
+51;Necesito realizar una solicitud para poner alumbrado público en mi cuadra:.Deseo solicitar instalación de alumbrado público.Deseo reportar un daño de alumbrado público;daños energia
+52;Deseo saber el valor de los kilovatios de energía prepago que me están cobrando.Las recargas de energía prepago no me están durando.Alto consumo de energía prepago;daños energia
+53;Deseo saber cómo puedo adquirir el servicio de energía prepago.Deseo saber cómo puedo solicitar el retiro del servicio de energía prepago.Tengo un pedido de energía prepago y deseo saber cómo va el proceso;daños energia
+54;Tengo energía prepaga con EPM y se me presentó un daño en el servicio;daños energia
+55;Punto de conexión.Deseo saber cómo y dónde puedo solicitar un nuevo servicio de energía.Tengo un pedido de energía y deseo saber cómo va el proceso.Necesito terminar de legalizar el servicio de energía para que me llegue la factura del consumo;daños energia
+56;Deseo saber cómo puedo solicitar el retiro definitivo de energía solar.Tengo un pedido de autogenerador y deseo agendar una cita;daños energia
+57;Deseo saber cómo puedo acceder al servicio de movilidad eléctrica.Tengo movilidad eléctrica con EPM y se me presentó un daño en el servicio;daños energia
+58;Estoy en proceso de la instalación de paneles solares:.Deseo saber cómo realizar la instalación de los páneles solares por primera vez.Tengo energía solar con EPM y se me presentó un daño en el servicio;daños energia
+59;Tengo un proyecto de energía y deseo agendar una cita de interventoría;daños energia
+60;Visitaron por alto consumo de agua y en el lugar indicado no hay ningún daño.Revisiones por consumo.Revisión previa (Llega carta por alto consumo);daños energia
+61;Me están facturando mucho de servicios.Me está llegando mucho de agua.Me está llegando mucho de energía.Me está llegando mucho de gas.El valor de la factura me ha incrementado mucho;daños energia
+62;Me suspendieron los servicio EGA.Necesito financiar para que me conecten el servicio EGA.Tengo el servicio suspendido y deseo financiar para reconectarlo.Necesito conocer el valor de la reconexión.Necesito saber cuándo me hacen la reconexión del servicio;orientacion factura
+63;Me suspendieron el servicio ya pagué y no me han reconectado.Me retiraron el servicio ya pagué y no me han reinstalado.Necesito saber cuándo me reconectan o me reinstalan el servicio.Tengo pendiente una reconexión o reinstalación del servicio EGA.Hice una financiación y no me han reconectado el servicio;orientacion factura
+64;Vinieron a realizar la suspensión del servicio de mi vecino y no se porque me dejaron a mi sin (servicios EGA);orientacion factura
+65;Valor del M3 de agua.Valor del M3 de gas.Valor del KW de energía.Cargos fijos de los servicios EGA.Valores de las reconexiones, suspensiones.¿Cuál es el consumo básico para los servicios EGA?.Quiero conocer las tarifas de los servicios EGA.¿Cómo aplica el subsidio para los estratos 1,2,3?;orientacion factura
+66;Cómo puedo pagar el total del valor financiado o como puedo abonar a mi financiación.Quiero trasladar el valor de mi financiación;orientacion factura
+67;Cuántas cuotas me faltan por pagar de?.Cuál es el valor de cada cuota de un trabajo que me realizaron del servicio de?.Cuál es el valor que me financiaron por xxx trabajo de.Cuál es el valor que me financiaron del servicio nuevo de acueducto y/o energía;orientacion factura
+68;Me informaron que estaba reportado en centrales de riego por EPM.Necesito un paz y salvo ya que estaba reportado por EPM;orientacion factura
+69;¿Por qué cobran la contribución a los estratos 5 y 6 comercial e industrial?.Necesito información sobre la exención a la contribución y qué documentos debo de presentar;orientacion factura
+70;Quiero inscribirme a paga a tu medida.Quiero hacer un abono a mi cuenta;orientacion factura
+71;Quiero hacer un abono a mi cuenta;orientacion factura
+72;Quiero hacer un abono a mi cuenta;orientacion factura
+73;Cuáles son los puntos donde puedo pagar mi factura;orientacion factura
+74;Quiero pagar uno de mis servicios EGA.Quiero pagar mis servicios EGA menos SOMOS;orientacion factura
+75;Necesito financiar trabajos del servicio EGA.Por qué me están cobrando un trabajo que me iban a financiar.Quiero financiar un trabajo que me realizaron.Necesito financiar mi factura de consumo.Qué documentación necesito para financiar mi factura;orientacion factura
+76;Cuáles son los números de contacto de las casas de cobro.Cuál es el horario y correo electrónico de las casas de cobro.Me están llegando mensajes de cobranza;orientacion factura
+77;Necesito hacer un cupón de pago de interventoría o revisión de planos;orientacion factura
+78;Necesito hacer un cupón para realizar una visita de puesta en servicio.Necesito un cupón de puesta en servicio.Tengo un proyecto de energía y deseo pagar el cupón de visita puesta en servicio;orientacion factura
+79;Necesito realizar un cupón de pago para instalar una publicidad.Necesito pagar una publicidad para ponerla en los postes de EPM.Necesito un cupón para un pasacalle o valla;orientacion factura
+80;Necesito realizar un cupón para mover unos cables.Necesito pagar un cupón para mover un transformado.Necesito un cupón para revisar unos cables.Necesito mover unas redes eléctricas;orientacion factura
+81;Necesito realizar un cupón para suspender el servicio de energía.Necesito un cupón para realizar trabajos de reparación y/o mantenimiento en una subestación.Necesito un cupón para interrumpir el servicio de energía;orientacion factura
+82;"Pagué menos en un cupón de pago anticipado proyectos eléctricos 
+.Pagué más en un cupón de pago anticipado proyectos eléctricos.Pagué por error un cupón de proyectos eléctricos.El tipo de cupón de pago anticipado no es correcto";orientacion factura
+83;Quiero saber el valor de mis servicios EGA.Quiero saber cuál es el valor de las otras entidades.Cuál es el valor total de mi factura;orientacion factura
+84; Necesito una copia de mis servicios públicos;orientacion factura
+85;Cuál es el periodo de consumo facturado.Fecha límite de pago.Facturas vencidas;orientacion factura
+86;Cómo puedo consultar mis facturas por la página web de EPM.Quiero hacer una inscripción para que mi factura me llegue al correo.Quiero recibir mi factura electrónica.No me está llegando mi factura física;orientacion factura
+87;Necesito información sobre un radicado que hice por la página o en la oficina;orientacion factura
+88;Quiero poner una PQR.Cómo puedo poner una PQR por la página web de EPM.Necesito la respuesta de una PQR.No me ha llegado respuesta de una PQR.Realicé una PQR por la página y quiero conocer la respuesta.Necesito saber el estado de una PQR;orientacion factura
+89;Tengo un bono para aplicar a mis servicios públicos.Quiero redimir un bono de EPM y pagar mis servicios públicos.Necesito hacer efectivo un bono de EPM que me regalaron y pagar mis servicios públicos.Cuál es la vigencia de los bonos de vida.;orientacion factura
+90;Cuál es el valor a pagar para retirar mis servicios EGA.Deseo retirar los servicios de las áreas comunes;orientacion factura
+91;Deseo información general sobre mi factura.Cobros energía solar.Cobros por trabajos realizados.No me están cobrando el servicio de energía, gas, acueducto;orientacion factura
+92;Deseo saber por qué me están cobrando alumbrado público en la factura.Necesito información sobre el cobro de seguro vital y asistencia domiciliaria.Me llegó la factura de este mes doble y yo pagué la del mes pasado;orientacion factura
+93;Pagué mi factura a número de contrato o dirección diferente.Me registra que no he pagado la factura y ya lo realicé el pago;orientacion factura
+94;Me dejaron un comprobante y me informan que no fue posible leero acceder los medidores;orientacion factura
+95;Necesito que mi factura de servicios EGA me llegue de nuevo a mi casa.Mi factura no me está llegando al inmueble original y necesito que llegue de nuevo;orientacion factura
+96;Necesito realizar un reclamo para áreas comunes.Necesito realizar una financiación para áreas comunes.Necesito una cita para adiministradores.Necesito una cita para unidad residencial;orientacion factura
+97;Citas para:.Metro Medellín.Municipio de Medellín.Empresa de vivienda de Antioquia.Isvimed.EDU.Unidad de atención y reparación integral a las victimas (UARIV);orientacion factura
+98;Se da cuando el usuario manifiesta una inconformidad por los valores facturados, en este caso el usuario es quien solicita la revisión;orientacion factura
+99;Valor financiado o a financiar y/o el valor total del costo de la RP;orientacion factura
+100;Quiero cambiar la categoría de mi casa o inmuble.Quiero modificar la categoría de mis servicios públicos en mi inmueble.Tenia un negocio o un local y me facturaban como comercial y ahora es una casa;orientacion factura
+101;Ley 820.Quiero saber como hago para que mi arrendatario se responsabilice de los servicios y/o financiaciones.Ley que cubre a los propietarios cuando van a arrendar;orientacion factura
+102;No me llegó el subsidio del mínimo vital.No se aplicó el subsidio del minimo vital.Necesito información sobre el programa minimo vital;orientacion factura
+103;Usuario solicita comprar un Gasodomésticos y no tiene crédito somos.;orientacion factura
+104;Usuario solicita información del estado de cuenta de su crédito de conversión GNV (Gas Natural vehicular):;somos
+105;Usuario solicita asesoría con respecto a la línea de crédito CrediSomos Eco y CrediSomos Tarjeta:;somos
+106;Usuario tiene una modalidad de crédito con somos o EPM y desea comprar el Gasodoméstico con un aliado comerciales con.;somos
+107;Usuario solicita validar número de cuotas pendientes financiación de Somos se debe transferir a SOMOS.;somos
+108;Usuario solicita información de proyectos residencial o comerciales de gas natural:;somos
+109;Necesito terminar de legalizar el servicio de gas para que me llegue la factura del consumo:;solgas
+110;Usuario requiere compra de gasodoméstico incluyendo adecuación de la red de gas para el equipo, se debe transferir a SOLGAS.Usuario solicita comprar un Gasodomésticos y desea realizar el pago con otro medio de pago (efectivo, tarjeta débito, tarjeta de crédito) es con.;solgas
+111;Usuario requiere compra de gasodomésticos incluyendo adecuación de la red de gas para el equipo.Usuario solicita comprar un Gasodomésticos y tiene crédito somos.;solgas
+112;Usuario solicita información para bonos de conversión GNV (Gas Natural vehicular).Usuario solicita información de los talleres GNV (Gas Natural vehicular).Usuario solicita información de las EDS (Estaciones de servicio) de Gas Natural vehicular.;solgas
+113;Garantía por trabajos en vehículos convertidos a GNV (Gas Natural vehicular).Usuario solicita retiro definitivo del servicio de gas natural.Usuario solicita información de proyectos residencial o comerciales de gas natural:;solgas
+114;Para reportar un 1500 es porque el funcionario se encuentra en la vivienda revisando y detecto olor a gas.;solgas
+115;Necesito que me cierren el gas por una modificación o reforma.Usuario solicita retiro temporal del servicio de gas natural por vivienda desocupada o trabajos de reparación y/o reforma en el inmueble;daños gas
+116;Usuario solicita cambio de conector flexible del gasodoméstico:S.Usuario solicita conectar un gasodoméstico nuevo que ya se encuentra instalado;daños gas
+117;Para realizar la revisión periódica de los 5 años;daños gas
+118;Cómo puedo pagar la instalación de los páneles solares;revisiones periodicas
+119;Qué cupo tengo disponible en la membresía.Qué disponibilidad tengo el la bolsa de membresía;somos
+120;Quiero hacer la instalación.Quiero hacer mantenimiento.Quiero hacer una reparación;epm puerta
+121;Quiero hacer la instalación.Quiero hacer mantenimiento.Quiero hacer una reparación;epm puerta
+122;Quiero hacer la instalación.Quiero hacer mantenimiento.Quiero hacer una reparación;epm puerta
+123;Quiero hacer la instalación.Quiero hacer mantenimiento.Quiero hacer una reparación;epm puerta
+124;Quiero hacer la instalación.Quiero hacer mantenimiento.Quiero hacer una reparación;epm puerta
+125;Quiero hacer la instalación.Quiero hacer mantenimiento.Quiero hacer una reparación;epm puerta
+126;Quiero hacer la instalación.Quiero hacer mantenimiento.Quiero hacer una reparación;epm puerta
+127;Quiero hacer la instalación.Quiero hacer mantenimiento.Quiero hacer una reparación;epm puerta
+128;Quiero hacer la instalación.Quiero hacer mantenimiento.Quiero hacer una reparación;epm puerta
+129;Quiero hacer la instalación.Quiero hacer mantenimiento.Quiero hacer una reparación;epm puerta
+130;Quiero hacer la instalación.Quiero hacer mantenimiento.Quiero hacer una reparación;epm puerta

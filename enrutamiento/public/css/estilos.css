@@ -1,0 +1,17 @@
+.titulos{
+    color: white;
+    background-color: #198754;
+}.form{
+        border: 2px solid;
+        background-color: #c7ddd3;    
+    
+
+}.buttonCancelar{
+    background-color: red;
+}.buttonConfirmar{
+    background-color: #198754;
+}.buttonCancelar:hover {
+    background-color: rgb(255, 17, 0);
+}.buttonConfirmar:hover {
+    background-color: #20a165;
+  }
